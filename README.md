@@ -16,5 +16,6 @@ https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authenticating-to
 1. 点击index.html 中的按钮，重定向到github 申请授权
 2. 在/callback 回调中 携带必要信息 以换取 access_token，最终显示token到 oauth2-token-uri.ejs 上
 
-github RestApi https://docs.github.com/en/rest?apiVersion=2022-11-28
-github RestApi Emails https://docs.github.com/en/rest/users/emails?apiVersion=2022-11-28#list-email-addresses-for-the-authenticated-user
+[github RestApi](https://docs.github.com/en/rest?apiVersion=2022-11-28) 
+
+[github RestApi Emails](https://docs.github.com/en/rest/users/emails?apiVersion=2022-11-28#list-email-addresses-for-the-authenticated-user) 
